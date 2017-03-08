@@ -1,16 +1,15 @@
 ﻿CACHE MANIFEST
-# Last Updated 8/03/2017 4:30:35 PM
+#created : 8/03/2017 4:39:27 PM
 
-assets/js/app.min.js
+#Explicitly cached entries
+CACHE:
 assets/css/app.min.css
-assets/css/images/ajax-loader.gif
-assets/css/images/ajax-loader.png
-assets/css/images/checkbox.png
-assets/css/images/icons-18-black.png
-assets/css/images/icons-18-white.png
-assets/css/images/icons-36-black.png
-assets/css/images/icons-36-white.png
-powered-by-spreadsheetconverter.png
+assets/js/app.min.js
+assets/fonts/glyphicons-halflings-regular.svg
+assets/fonts/glyphicons-halflings-regular.ttf
+assets/fonts/glyphicons-halflings-regular.woff
 
+
+#All Other resources (e.g. sites) require the user to be online
 NETWORK:
 *
